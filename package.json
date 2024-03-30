@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "Simple Node.js-based file server",
   "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "keep-alive": "node keepAlive.js"
   },
   "repository": {
     "type": "git",
