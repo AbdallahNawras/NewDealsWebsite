@@ -1,1 +1,5 @@
+# file tells Git to ignore the node_modules directory, which is where all the dependencies
+# installed by npm are stored. This is a common practice because dependencies should be 
+# installed by each developer individually through npm install, and not included in the 
+#version control repository
 node_modules

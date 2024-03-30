@@ -1,3 +1,4 @@
 {
+    //serve project on port 5501 when it's launched
     "liveServer.settings.port": 5501
 }
